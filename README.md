@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @robocoptertron
 - 👀 I’m interested in full-stack JavaScript/TypeScript development
 - 🌱 I’m currently learning full-stack JavaScript development with Express.js, and desktop application development with Electron.js
-- 💞️ I’m looking to collaborate on ...
 - 📫 If you would like to contact me, please send a message via the contact form on my portfolio site, at ![rncode.herokuapp.com](https://rncode.herokuapp.com)
 
 <!---
